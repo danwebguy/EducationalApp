@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="appName">Educational App</string>
+
+    <string name="fName">Enter Your Name</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="welcomeMessage">Welcome&#160;</string>
+    <string name="welcomeMessage1">&#160;to your Quiz on Current Affairs in Nigeria</string>
+
+    <string name="welcomeText">Welcome Text</string>
+    <string name="question1">Who formed the first political party in Nigeria?</string>
+    <string name="question1Answer1">Herbert Macaulay</string>
+    <string name="question1Answer2">Mike Adenuga</string>
+    <string name="question1Answer3">Alhaji Shewu Shagari</string>
+    <string name="question1Answer4"> Olusegun Obasanjo</string>
+
+    <string name="question2">2. Who is the current president of Nigeria?</string>
+
+    <string name="question3">3. When did Nigerian Golden eaglets win the world under-17 FIFA world cup?</string>
+    <string name="question3Answer1">1985</string>
+    <string name="question3Answer2">1993</string>
+    <string name="question3Answer3">2007</string>
+    <string name="question3Answer4">2013</string>
+    <string name="question3Answer5">None of the Above</string>
+
+    <string name="question4">4. What is the Name of Nigerian Senior National Men Team in Football?</string>
+
+    <string name="question5">5 What does the Eagle in the Nigerian Coat of Arm Represent?</string>
+    <string name="question5Answer1">Energy</string>
+    <string name="question5Answer2">Strength</string>
+    <string name="question5Answer3">Flight</string>
+    <string name="question5Answer4">Growth</string>
+
+    <string name="question6">6. What was the First Capital City in Nigeria?</string>
+
+    <string name="question7">7. Which of the Four Rivers in Nigeria Listed below share their names with a state.</string>
+    <string name="question7Answer1">Benue</string>
+    <string name="question7Answer2">Niger</string>
+    <string name="question7Answer3">Oyo</string>
+    <string name="question7Answer4">Osun</string>
+    <string name="question7Answer5">None of the Above</string>
+
+    <string name="question8">8. Who was the First Nigerian to Become a Noble Laureate?</string>
+
+    <string name="question9">9. When was the First Military Coup Carried out in Nigeria?</string>
+    <string name="question9Answer1">1988</string>
+    <string name="question9Answer2">1999</string>
+    <string name="question9Answer3">1960</string>
+    <string name="question9Answer4">1966</string>
+
+    <string name="question10">10. The First Governor General of Colonial Nigeria was </string>
+
+    <string name="submitAnswers">Submit Answers</string>
+
+
+</resources>
